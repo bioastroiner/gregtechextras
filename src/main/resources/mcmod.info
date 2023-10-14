@@ -1,0 +1,19 @@
+[
+{
+    "modListVersion": 2,
+    "modid": "${modId}",
+    "name": "${modName}",
+    "description": "Adds new Stuff to Gregtech",
+    "version": "${modVersion}",
+    "mcversion": "${minecraftVersion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["Blood Asp, BioAstroiner"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "useDependencyInformation": false
+}
+]
+
+
